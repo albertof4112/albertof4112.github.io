@@ -14,7 +14,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #C0C0C0;
+    color: gainsboro;
 }
 a:hover {
     text-decoration: underline;
