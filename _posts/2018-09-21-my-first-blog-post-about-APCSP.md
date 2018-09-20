@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alberto Fernandez, AFSE Student, My first blog post"
+title: "Alberto Fernandez, AFSE Student, My First Blog Post"
 date: 2018-09-21
 ---
 
