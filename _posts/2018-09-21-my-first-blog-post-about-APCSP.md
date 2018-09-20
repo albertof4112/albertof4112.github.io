@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alberto Fernandez, AFSE Student, Launches Site"
+title: "Alberto Fernandez, AFSE Student, My first blog post"
 date: 2018-09-21
 ---
 
