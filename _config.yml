@@ -1,2 +1,3 @@
 name: Alberto Fernandez, AFSE Student
 markdone: kramdown
+permalink: /blog/:year/:month/:day/:title
