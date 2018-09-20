@@ -4,7 +4,7 @@ body {
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
+    padding: 1px;
     list-style: none;
     font-weight: bold;
 }
@@ -14,7 +14,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #000000;
+    color: #686868;
 }
 a:hover {
     text-decoration: underline;
