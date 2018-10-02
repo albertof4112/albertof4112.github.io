@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Alberto Fernandez, AFSE Student, Weekly Reflection 01"
+date: 2018-10-05
+---
+
 For this week and onward, the APCSP teacher told us add more and more detail for our weekly reflections, so I'll definitely try on this 
 one a bit more. Anyways, we started the period on Monday with writing a short blurb about what we will do in class for Monday. The blurb 
 was basically about us styling our websites in css. After this, we did a do now that basically involved different ways we can make a 
