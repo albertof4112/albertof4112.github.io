@@ -19,7 +19,7 @@ Since our APCSP period on Wednesday was basically just us coding and finishing u
 # Our Learning (Thursday)
 ![BANGLADESH.FLAG](/images/BANGLADESH.FLAG.png)
 ![SWEEDEN.FLAG](/images/SWEEDEN.FLAG.png)
-![RUSSIA.FLAG](/images/RUSSIA.FLAG.png)
+![RUSSIA.FLAG](/images/RUSSIAN.FLAG.png)
 
 
 # My Learning (Thursday)
