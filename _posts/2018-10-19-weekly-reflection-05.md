@@ -17,13 +17,18 @@ On Wednesday we didn't have a lot of "our learning" as the day was basically jus
 Since our APCSP period on Wednesday was basically just us coding and finishing up our flags, this is exactly what I did. I finished my Bangladesh flag on Monday so I decided to make two more flags. Russia, and Sweeden were my two currated picks and with me coding these two flags and putting my working and time into them, to go along with helping out some of my peers with their flags, the period was essentially over. It was much more relaxed compared to other periods, and I feel like I got some pretty solid work done throughout the whole thing.
 
 # Our Learning (Thursday)
+
 ![BANGLADESH.FLAG](/images/BANGLADESH.FLAG.png)
-Format: (https://code.pyret.org/editor#program=1ttoXdOyDio1zFiQKcuYv9mMG5gxKV3-j)
-![SWEEDEN.FLAG](/images/SWEEDEN.FLAG.png)
-Format: (https://code.pyret.org/editor#program=1ttoXdOyDio1zFiQKcuYv9mMG5gxKV3-j)
-![RUSSIAN.FLAG](/images/RUSSIAN.FLAG.png)
+
 Format: (https://code.pyret.org/editor#program=1ttoXdOyDio1zFiQKcuYv9mMG5gxKV3-j)
 
+![SWEEDEN.FLAG](/images/SWEEDEN.FLAG.png)
+
+Format: (https://code.pyret.org/editor#program=1ttoXdOyDio1zFiQKcuYv9mMG5gxKV3-j)
+
+![RUSSIAN.FLAG](/images/RUSSIAN.FLAG.png)
+
+Format: (https://code.pyret.org/editor#program=1ttoXdOyDio1zFiQKcuYv9mMG5gxKV3-j)
 
 # My Learning (Thursday)
 
