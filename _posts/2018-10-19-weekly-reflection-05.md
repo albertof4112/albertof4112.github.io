@@ -20,15 +20,15 @@ Since our APCSP period on Wednesday was basically just us coding and finishing u
 
 ![BANGLADESH.FLAG](/images/BANGLADESH.FLAG.png)
 
-Format: (https://code.pyret.org/editor#program=1ttoXdOyDio1zFiQKcuYv9mMG5gxKV3-j)
+Format: ![Alt Text](https://code.pyret.org/editor#program=1ttoXdOyDio1zFiQKcuYv9mMG5gxKV3-j)
 
 ![SWEEDEN.FLAG](/images/SWEEDEN.FLAG.png)
 
-Format: (https://code.pyret.org/editor#program=1ttoXdOyDio1zFiQKcuYv9mMG5gxKV3-j)
+Format: ![Alt Text](https://code.pyret.org/editor#program=1ttoXdOyDio1zFiQKcuYv9mMG5gxKV3-j)
 
 ![RUSSIAN.FLAG](/images/RUSSIAN.FLAG.png)
 
-Format: (https://code.pyret.org/editor#program=1ttoXdOyDio1zFiQKcuYv9mMG5gxKV3-j)
+Format: ![Alt Text](https://code.pyret.org/editor#program=1ttoXdOyDio1zFiQKcuYv9mMG5gxKV3-j)
 
 # My Learning (Thursday)
 
