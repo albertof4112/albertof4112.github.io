@@ -22,7 +22,7 @@ Our learningas a class on Thursday wasn't much, but it wass still significant. W
 # My Learning (Thursday)
 As aforementioned, I made the three flags of Bangadesh, Russia, and Sweeden which I conviently placed below this reflecion. I basically worked on applying these flags to my website and using other new things I learned to put them on here. I also did part of my reflection in class and then helped out some of my peers with applying their flags, and then the period was basically over after this. 
 
-![BANGLADESH.FLAG](/images/BANGLADESH.FLAG.png) ![SWEEDEN.FLAG](/images/SWEEDEN.FLAG.png) ![RUSSIAN.FLAG](/images/RUSSIAN.FLAG.png)
+![BANGLADESH.FLAG](/images/BANGLADESH.FLAG.png) ![RUSSIAN.FLAG](/images/RUSSIAN.FLAG.png) ![SWEEDEN.FLAG](/images/SWEEDEN.FLAG.png) 
 
 # Our Learning (Friday)
 
