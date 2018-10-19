@@ -25,6 +25,12 @@ As aforementioned, I made the three flags of Bangadesh, Russia, and Sweeden whic
 ![BANGLADESH.FLAG](/images/BANGLADESH.FLAG.png) ![RUSSIAN.FLAG](/images/RUSSIAN.FLAG.png) ![SWEEDEN.FLAG](/images/SWEEDEN.FLAG.png) 
 
 # Our Learning (Friday)
-So our learning on Friday started off with us having APCSP on the last period and the teacher giving us some notes to help build our website
+So our learning on Friday started off with us having APCSP on the last period and the teacher giving us some notes to help build our website. These notes were to tell us to add backquotes to our learning blog and talk about the actual codes and expressions we used to make the flags above, plus to explain how we did them. We got told this as aan introduction to the class and then
 
 # My Learning (Friday)
+
+
+# Overall Personal Moments
+
+
+# Connections Throughout the Week
