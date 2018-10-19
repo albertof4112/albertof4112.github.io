@@ -17,7 +17,7 @@ On Wednesday we didn't have a lot of "our learning" as the day was basically jus
 Since our APCSP period on Wednesday was basically just us coding and finishing up our flags, this is exactly what I did. I finished my Bangladesh flag on Monday so I decided to make two more flags. Russia, and Sweeden were my two currated picks and with me coding these two flags and putting my working and time into them, to go along with helping out some of my peers with their flags, the period was essentially over. It was much more relaxed compared to other periods, and I feel like I got some pretty solid work done throughout the whole thing.
 
 # Our Learning (Thursday)
-Our learningas a class on Thursday wasn't much, but it wass still significant. We had APCSP second period on Thursday and our teacher walked in with a box that happened to be from GitHub themselves. The box had cheatsheets and guides to using GitHub plus extra stickers. We talked about the little cheat sheet book we got and then were told we were going to use it to upgrade our websites. We were going to do this by applying the information from the booklet we got, but by mainly applying images of the flags we started to code on. We were told this as a 'do now' of sorts and then got to work on the computers.
+Our learning as a class on Thursday wasn't much, but it was still significant. We had APCSP second period on Thursday and our teacher walked in with a box that happened to be from GitHub themselves. The box had cheatsheets and guides to using GitHub plus extra stickers. We talked about the little cheat sheet book we got and then were told we were going to use it to upgrade our websites. We were going to do this by applying the information from the booklet we got, but by mainly applying images of the flags we started to code on. We were told this as a 'do now' of sorts and then got to work on the computers.
 
 # My Learning (Thursday)
 As aforementioned, I made the three flags of Bangadesh, Russia, and Sweeden which I conviently placed below this reflecion. I basically worked on applying these flags to my website and using other new things I learned to put them on here. I also did part of my reflection in class and then helped out some of my peers with applying their flags, and then the period was basically over after this. 
@@ -25,6 +25,6 @@ As aforementioned, I made the three flags of Bangadesh, Russia, and Sweeden whic
 ![BANGLADESH.FLAG](/images/BANGLADESH.FLAG.png) ![RUSSIAN.FLAG](/images/RUSSIAN.FLAG.png) ![SWEEDEN.FLAG](/images/SWEEDEN.FLAG.png) 
 
 # Our Learning (Friday)
-
+So our learning on Friday started off with us having APCSP on the last period and the teacher giving us some notes to help build our website
 
 # My Learning (Friday)
