@@ -25,10 +25,10 @@ As aforementioned, I made the three flags of Bangadesh, Russia, and Sweeden whic
 ![BANGLADESH.FLAG](/images/BANGLADESH.FLAG.png) ![RUSSIAN.FLAG](/images/RUSSIAN.FLAG.png) ![SWEEDEN.FLAG](/images/SWEEDEN.FLAG.png) 
 
 # Our Learning (Friday)
-So our learning on Friday started off with us having APCSP on the last period and the teacher giving us some notes to help build our website. These notes were to tell us to add backquotes to our learning blog and talk about the actual codes and expressions we used to make the flags above, plus to explain how we did them. We got told this as aan introduction to the class and then
+So our learning on Friday started off with us having APCSP on the last period and the teacher giving us some notes to help build our website. These notes were to tell us to add backquotes to our learning blog and talk about the actual codes and expressions we used to make the flags above, plus to explain how we did them. We got told this as an introduction to the class and then went off to work on our website blogs.
 
 # My Learning (Friday)
-
+I didn't have too much personal learning on Friday as the main task for the day was to upgrade my blog, but I did learn about using the backquotes in our blog and also about how the characters and all of the text are monospace in the blog editor so they all take up the same space. On Friday I did try to help out and improve my blog by adding the aforementioned backquotes and by writing this very reflection. 
 
 # Overall Personal Moments
 
