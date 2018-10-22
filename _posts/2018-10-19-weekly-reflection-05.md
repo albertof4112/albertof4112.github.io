@@ -28,9 +28,10 @@ As aforementioned, I made the three flags of Bangadesh, Russia, and Sweeden whic
 So our learning on Friday started off with us having APCSP on the last period and the teacher giving us some notes to help build our website. These notes were to tell us to add backquotes to our learning blog and talk about the actual codes and expressions we used to make the flags above, plus to explain how we did them. We got told this as an introduction to the class and then went off to work on our website blogs.
 
 # My Learning (Friday)
-I didn't have too much personal learning on Friday as the main task for the day was to upgrade my blog, but I did learn about using the backquotes in our blog and also about how the characters and all of the text are monospace in the blog editor so they all take up the same space. On Friday I did try to help out and improve my blog by adding the aforementioned backquotes and by writing this very reflection. 
+I didn't have too much personal learning on Friday as the main task for the day was to upgrade my blog, but I did learn about using the backquotes in our blog and also about how the characters and all of the text are monospace in the blog editor so they all take up the same space. On Friday I did try to help out and improve my blog by adding the aforementioned backquotes and by writing this very reflection. Besides upgrading my own blog though, I also helped my peers to improve their blogs by assisting in image inserting.
 
 # Overall Personal Moments
 
 
 # Connections Throughout the Week
+As a whole, this weeks' two main topics of working on plus uploading our flags and improving our blog posts helped us prepare for the biggers tasks of the APCSP projects we must submit too the college board. For one of the projects, we have to create a program similar to the flags we made, but include a function, and then reflect on what and how we did it. The actual project is very important, but the blog posts are arguably more important because the main part and where most of the points come from is from the reflection about what we created.
