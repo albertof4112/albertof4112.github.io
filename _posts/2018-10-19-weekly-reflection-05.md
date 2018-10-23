@@ -28,10 +28,14 @@ As aforementioned, I made the three flags of Bangadesh, Russia, and Sweeden whic
 So our learning on Friday started off with us having APCSP on the last period and the teacher giving us some notes to help build our website. These notes were to tell us to add backquotes to our learning blog and talk about the actual codes and expressions we used to make the flags above, plus to explain how we did them. We got told this as an introduction to the class and then went off to work on our website blogs.
 
 # My Learning (Friday)
-I didn't have too much personal learning on Friday as the main task for the day was to upgrade my blog, but I did learn about using the backquotes in our blog and also about how the characters and all of the text are monospace in the blog editor so they all take up the same space. On Friday I did try to help out and improve my blog by adding the aforementioned backquotes and by writing this very reflection. Besides upgrading my own blog though, I also helped my peers to improve their blogs by assisting in image inserting.
+I didn't have too much personal learning on Friday as the main task for the day was to upgrade my blog, but I did learn about using the backquotes in our blog and also about how the characters and all of the text are monospace in the blog editor so they all take up the same space. On Friday I did try to help out and improve my blog by adding the aforementioned backquotes and by writing this very reflection. Besides upgrading my own blog though, I also helped my peers to improve their blogs by assisting in image inserting. Besides this though, some of the code I used to build my flags was: 
+```
+DGR =rectangle(300, 200, "solid", "dark-green")
+```
+This was used as the backgoround for my Bangladesh flag as is was the dark green rectangle part. Later on, I want to see if I can modify the flag and rectangle so that they move and wave.
 
 # Overall Personal Moments
-
+Some personal moments inside of APCSP throughout the week were me completing not only one, but 3 different flags. I was proud of this because I had to learn and focus a lot in class, plus give lots of invested time to create these three different flags. Another personal moment from this week was when I learned that I recieved a two (apprentice) on my prior week four reflection. I was suprised by this since I thought it was a better reflection than weeks before, which got 3's (practitioner). I conversatede with the teacher about this and learned that I had to add a "personal moments" section and a "connections" section, so I did both. These two new heading are still a work in progress, but i'll continue to aim for a 4 (professional).
 
 # Connections Throughout the Week
 As a whole, this weeks' two main topics of working on plus uploading our flags and improving our blog posts helped us prepare for the biggers tasks of the APCSP projects we must submit too the college board. For one of the projects, we have to create a program similar to the flags we made, but include a function, and then reflect on what and how we did it. The actual project is very important, but the blog posts are arguably more important because the main part and where most of the points come from is from the reflection about what we created.
