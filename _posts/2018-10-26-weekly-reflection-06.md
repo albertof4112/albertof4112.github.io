@@ -20,4 +20,4 @@ pie-chart :: (t :: Table, label-cd :: String, data-cd :: String) -> Image
 
 bar-chart :: ( " , " , " ) -> Image
 ```
-
+This code was meant to teach us more about recording and displaying data within a program like pyret. This code and today's overall lesson is a key connection as it correlates with our 'shapes' data tables from monday and wednesday. Not only this but this lesson has a comparison with our flag project from our previous unit as it uses code from pyret. Even more though, today we also did a google classroom discussion on sample code for a second time this unit. Although this time we were comparing and contrasting two different sets of data, one from pyret and one from google sheets. The two were the same table of data, just displayed on two different platforms. It was observed by most that the pyret code was a copy of the google sheets code as one of the lines cited g-drive or google drive. Some (including me) wondered that if changes were made to the google sheets file, that if it would automatically change the pyret code.
