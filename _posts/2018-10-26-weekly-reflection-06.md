@@ -15,7 +15,8 @@ On wednesday APCSP was first period and the 'do now' for the class was to demons
 # Connections and Reflections (Thursday)
 
 APCSP was second period on Thursday and it started off with us reviewing and writing down some notes that were ment to help us creat pie charts and bar charts in pyret. The code was the following 
-``` pie-chart :: (t :: Table, label-cd :: String, data-cd :: String) -> Image
+``` 
+pie-chart :: (t :: Table, label-cd :: String, data-cd :: String) -> Image
 
 bar-chart :: ( " , " , " ) -> Image
 ```
