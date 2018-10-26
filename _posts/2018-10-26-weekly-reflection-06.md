@@ -18,3 +18,5 @@ APCSP was second period on Thursday and it started off with us reviewing and wri
 ``` pie-chart :: (t :: Table, label-cd :: String, data-cd :: String) -> Image
 
 bar-chart :: ( " , " , " ) -> Image
+```
+
