@@ -14,4 +14,11 @@ Coming off a fresh day-off from election day, there was APCSP class first period
 Today's reflection will hopefully be a shorter one as a fire drill that evacuated the entire school building and cut about 20 out of 60 minutes of APCSP time. Anyways, we still had a warm up for today's class and it was to determine whether or not ``` birthday-cake ``` was taller than ``` red-velvet-cake ```. To get the answer to this we had to look at the number of ``` layers ``` for each of the two cakes. ``` birthday-cake ``` had a number of 4 ``` layers ```, while ``` red-velvet-cake ``` had a number of 2 ``` layers ```. This concept and idea of determining what has a higher value number wise, or in this case which cake is taller, was the entire point of today's lesson. In fact, after the warm up, we had 20 minutes of computer time to work on two particular functions that involved booleans with number data. We were taught to try an use examples to solve these number data functions, so I used examples and I used the ``` check: ``` call to fix the two main functions of ``` taller-than ``` and ``` will-melt ```. These two functions were meant to determine whether or not a cake is taller than another, and determine if a cake contained ice cream or not, and if it would melt, respectively. After a while, we finished doing this at the computer, and since the day was so short due to the fire drill, the period was over. A connection for today would be the correlation between the pre given programs we get from the teacher to build on and edit, but also there is a similarity in how we were able to create tables and specific data to demonstrate a general idea in code.
 
 # Connections and Reflections (Friday)
-Last period. APCSP. Warm up started with us being asked to create a funcion in our notebooks that took in a perimeter of a square, and outputted 
+Last period. APCSP. Warm up started with us being asked to create a funcion in our notebooks that took in a perimeter of a square, and outputted the area of that square. I didn't really understand the problem, even though I saw it before in one of our word problem solving programs given to us, but still tried. I created the following funcion:
+```
+area-sq::(Number :: * :: Number)
+```
+This was wrong when we reviewed it because what you're actually suppossed to do is 
+```
+perimeter-to-area::(p :: Number) -> Number
+```
