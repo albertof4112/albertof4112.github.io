@@ -22,3 +22,4 @@ This was wrong when we reviewed it because what you're actually suppossed to do 
 ```
 perimeter-to-area::(p :: Number) -> Number
 ```
+The warm up was meant to prepare and help us out on our function creating. Overall, today was basically just this warm up, some more work on functions, and the teacher talking to us about how much time we have left in the school year, what we have to do to pass the course, etc. We also got to work on our blogs at the end of the period, but one key part of today's class is the part of the teacher telling us to practice function problems and to practice creating contracts. I will try my best to make some time for these, most likely on Monday for veterans day, but who knows.
