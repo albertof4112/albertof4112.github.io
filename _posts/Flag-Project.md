@@ -59,4 +59,4 @@ Pakistan = place-image(RWS, width - (width * 0.28333), height - (height * 0.625)
 ```
 ![Pakistan.Flag](/images/flagV2.png)
 
-As you can see, the flag is a rough draft
+As you can see, the flag is a very rough draft. You might also be thinking that this is a pretty bad flag for working on it for 4+ day but I can explain. You see I had the flag done, everything to proportion, but then I found out that I needed to use the dimensions of the flag so that one number would change the entire size of my flag. This meant I basically had to change everything and am still in the process of editing through it. Two questions I have are how could I change my star rotation so that it matches the one of the actual flag? and is there any way I could work with other people with the pakistan flag to share ideas? A challenge overall is knowing how to put the dimensions where they need to be precisely, and an oppurtunity is all of next week. I still have at least 2-3 class periods (due to wednesday trip) to continue to work on the flag and am confident I can get it done.
