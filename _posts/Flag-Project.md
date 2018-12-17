@@ -57,5 +57,6 @@ DGC-WC-WR-DGR = place-image(DGC, width - (width * 0.31666), height - (height * 0
 Pakistan = place-image(RWS, width - (width * 0.28333), height - (height * 0.625), DGC-WC-WR-DGR)
 
 ```
+![Pakistan.Flag](/images/flagV2.png)
 
 As you can see, the flag is a rough draft
