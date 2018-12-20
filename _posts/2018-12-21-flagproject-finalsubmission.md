@@ -51,4 +51,53 @@ Insert 10-15 line code section here _then delete this instruction_
 ## Program code
 
 ```
-Insert entire program here _then delete this instruction_
+include image
+
+# Pakistan Flag
+
+
+# Dimensions
+
+height = 200
+
+width = height * 3/2
+
+stripe-height = height / 1
+
+stripe-width = width / 4
+
+star-radius = 1/10 * height
+
+crescentwhite-radius = 3/10 * height
+
+crescentdarkgreen-radius = 11/40 * height
+
+rectangledarkgreen-height = height * 1
+
+rectangledakrgreen-width = width - stripe-width
+
+# Simple Parts/ Pieces
+
+DGR = rectangle(width, height, "solid", "dark-green")
+
+WR = rectangle(stripe-width, stripe-height, "solid", "white")
+
+WC = circle(crescentwhite-radius, "solid", "white")
+
+DGC = circle(crescentdarkgreen-radius, "solid", "dark-green")
+
+WS = star(star-radius, "solid", "white")
+
+RWS = rotate(18, WS)
+
+# Combinations of Simple Parts
+
+WR-DGR = place-image(WR, width / 8, height / 2, DGR)
+
+WC-WR-DGR = place-image(WC, width / 1.60, height / 1.95, WR-DGR)
+
+DGC-WC-WR-DGR = place-image(DGC, width - (width * 0.31666), height - (height * 0.5625), WC-WR-DGR)
+
+Pakistan = place-image(RWS, width - (width * 0.28333), height - (height * 0.625), DGC-WC-WR-DGR)
+
+```
