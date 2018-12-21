@@ -4,18 +4,13 @@ title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
 
-## Flag of _insert your country_ by _insert your name_
+## Flag of Pakistan by Alberto Fernandez
 
 ## Describe your program
 
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
-
-<!--- Delete this comment and add your writing -->
+The country I designed my program for was Pakistan.With my creation of the Pakistan flag on pyret, I expect a professional grade on it due to having dimensions, simple parts, and combinations of simple parts.
 
 ## Current output
-
--   Insert an image that your program currently produces. _then delete this instruction_
 
 * * *
 ![Pakistan.Flag](/images/bestpakistanflag(epic).png)
@@ -23,30 +18,37 @@ date: 2018-12-21
 
 ## Describe your process.
 
--   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
-
-<!--- Delete this comment and add your writing -->
-
+Firstly, questions I asked to help improve my Pakistan flag were "How do I calculate the exact angle of the star if websites don't mention it?, How do I create a crescent in pyret if there are no crescent shape funcitons?, and How do I make my flag so that I can change one number and the entire size changes?" These questions helped me developed strategies that turned my flag into a professional level like searching for star geometery, using two overlapping circles to make a crescent and by using dimensions in my code. Most of this help I got from the teacher but I did create all of the dimensions code by myself with my own thinking.
 
 ## Explain your code.
 
 -   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. _then delete this instruction_
--   Explain each argument in the code section. _then delete this instruction_
--   Tell us how it functions independently and within the whole program _then delete this instruction_
-
-* * *
-
 ```
-Insert 10-15 line code section here _then delete this instruction_
+# Dimensions
+
+height = 200
+
+width = height * 3/2
+
+stripe-height = height / 1
+
+stripe-width = width / 4
+
+star-radius = 1/10 * height
+
+crescentwhite-radius = 3/10 * height
+
+crescentdarkgreen-radius = 11/40 * height
+
+rectangledarkgreen-height = height * 1
+
+rectangledakrgreen-width = width - stripe-width
 ```
 
+This section was my "dimensions"part of my code. The first two lines are the height and width of the flag, with the height being the most important part as it is the one where I can change one number and change the entire size of the flag program. After this, I have my white stripe heigh which is the same as my flag height and the width that is 1/4 of the entire flag width. I then have the radius or size of my star which is 1/10 of the flag height. After this there is the radius of the white circle that makes the crescent and the dark green circle that makes the crescent, 3/10 and 11/40 respectively. Following, there is the height of the main green dark rectangle which is the same as the normal flag height, and then the width which is 3/4 of the flag width or the flag width - stripe width.
+
+These dimensions control all of the sizes of the program as my simple parts, a.k.a. shapes use these for their size and for their positional placement in combinations of simple parts.
 * * *
-
--   Explain the code you posted by telling us about each argument.
--   Then tell us how your code section fits into the whole.
- 
-<!--- Delete this comment and add your writing -->
-
 
 ## Program code
 
