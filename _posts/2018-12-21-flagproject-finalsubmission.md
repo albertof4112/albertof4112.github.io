@@ -6,23 +6,22 @@ date: 2018-12-21
 
 ## Flag of Pakistan by Alberto Fernandez
 
-## Describe your program
+## Describing my program (Overview)
 
 The country I designed my program for was Pakistan.With my creation of the Pakistan flag on pyret, I expect a professional grade on it due to having dimensions, simple parts, and combinations of simple parts.
 
-## Current output
+## Current output (Image of the Flag)
 
 * * *
 ![Pakistan.Flag](/images/bestpakistanflag(epic).png)
 * * *
 
-## Describe your process.
+## Describing my process
 
 Firstly, questions I asked to help improve my Pakistan flag were "How do I calculate the exact angle of the star if websites don't mention it?, How do I create a crescent in pyret if there are no crescent shape funcitons?, and How do I make my flag so that I can change one number and the entire size changes?" These questions helped me developed strategies that turned my flag into a professional level like searching for star geometery, using two overlapping circles to make a crescent and by using dimensions in my code. Most of this help I got from the teacher but I did create all of the dimensions code by myself with my own thinking.
 
-## Explain your code.
+## Explaining my code
 
--   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. _then delete this instruction_
 ```
 # Dimensions
 
@@ -50,7 +49,7 @@ This section was my "dimensions"part of my code. The first two lines are the hei
 These dimensions control all of the sizes of the program as my simple parts, a.k.a. shapes use these for their size and for their positional placement in combinations of simple parts.
 * * *
 
-## Program code
+## My Program code
 
 ```
 include image
